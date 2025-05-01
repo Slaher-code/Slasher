@@ -1,0 +1,22 @@
+.jumbotron {
+  border: none;
+  padding-top: 2rem;
+  background-color: #c4d8eb;
+}
+.gambar {
+  background-image: url(img/ibnu.jpg);
+  background-position: 50% 40%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  border: 3px solid #e1e4e9;
+  /* overflow: hidden; */
+}
+#project {
+  background-color: #c4d8eb;
+}
+section {
+  padding-top: 5rem;
+}
